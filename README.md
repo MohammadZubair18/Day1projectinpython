@@ -1,4 +1,6 @@
 # Day1projectinpython
+
+What is string Concatenation
 """String Concatenation
 String concatenation means add strings together.
 
